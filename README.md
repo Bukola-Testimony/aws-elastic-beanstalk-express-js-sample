@@ -4,6 +4,7 @@
 
 ![](project-architecture.png)
 
+[Click here for Resource Link](https://aws.amazon.com/getting-started/hands-on/create-continuous-delivery-pipeline/?ref=gsrchandson)
 
 This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path.
 
